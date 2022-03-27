@@ -1,2 +1,2 @@
 
-### :sparkles: Starbucks-clone :sparkles:
+### :sparkles: Starbucks-clone  :coffee: :sparkles:
